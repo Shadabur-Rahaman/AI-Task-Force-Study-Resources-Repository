@@ -85,6 +85,19 @@ Each module is supported by a dedicated **NotebookLM workspace** for deeper expl
 
 ---
 
+## 📥 How to Use
+
+1. Select the **RPA subject**
+2. Open the required **module**
+3. Choose the resource you need:
+   - Notes  
+   - Process Flow  
+   - PPT  
+   - Diagram  
+4. Revise, learn, or present effortlessly
+
+---
+
 ## 🧭 Suggested Repository Navigation
 
 ```text
@@ -97,3 +110,39 @@ RPA/
 ├── Module-3/
 ├── Module-4/
 └── Module-5/
+
+```
+
+---
+## 👥 Contributors & Developers
+
+This repository is collaboratively maintained by the  
+**AI Task Force – CSD (7th Semester)**
+
+### 👨‍💻 Student Contributor
+- **Shadabur Rahaman**
+
+### 👩‍🏫 Faculty Coordinators
+- Dr. Pramod  
+- Mrs. Ayisha Khanum  
+- Mrs. Kavya S  
+- Mr. Manjunatha G  
+- Mr. Harish M  
+- Ms. Nithya HL  
+- Mr. Manukumar SM  
+
+---
+
+## ⭐ Support & Contribution
+
+If you find this repository helpful:
+
+- ⭐ Star the repository  
+- 🍴 Fork it  
+- 📢 Share with classmates  
+
+Contributions in the form of notes, diagrams, PPTs, and automation examples are welcome.
+
+---
+
+### 📌 *Built with the vision of simplifying RPA learning using AI-powered academic workflows.*
